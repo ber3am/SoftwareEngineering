@@ -82,7 +82,7 @@
 	    (object Class "Shop Admin"
 		quid       	"5C7C3C97009C"
 		documentation 	
-|����� ������ ��� ������ʡ ���������ǡ ����ݝ�� � �������
+|ãÓÆæá ãÏíÑíÊ ˜áí ãÍÕæáÇÊ¡ ÏÓÊåÈäÏíåÇ¡ ÊÎÝíÝåÇ æ ÒÇÑÔÇÊ
 |
 		
 		stereotype 	"Actor"
@@ -118,7 +118,7 @@
 	    (object Class "Seller"
 		quid       	"5C7C3CC50119"
 		documentation 	
-|����� ���� ������� ������ʡ �����ѡ ����� � ���ʝ�����
+|ãÓÆæá æÑæÏ ÇØáÇÚÇÊ ãÍÕæáÇÊ¡ ÊÕÇæíÑ¡ äÙÑÇÊ æ ÞíãÊÐÇÑí
 |
 		
 		stereotype 	"Actor"
@@ -146,7 +146,7 @@
 	    (object Class "Supplier"
 		quid       	"5C7C3CF402A0"
 		documentation 	
-|����� ������ ������ � �������� ����� ����
+|ãÓÆæá ãÏíÑíÊ ãæÌæÏí æ åÔÏÇÑåÇí ˜ãÈæÏ ˜ÇáÇ
 |
 		
 		stereotype 	"Actor"
@@ -158,9 +158,9 @@
 	    (object Class "customer"
 		quid       	"5C7C450B0177"
 		documentation 	
-|����� ��ʝ������ �� ������� ������� ��� �� ������ ���.
+|˜ÇÑÈÑ ËÈÊäÇãÔÏå ˜å ãíÊæÇäÏ ÑæÝÇíá ÎæÏ ÑÇ ãÏíÑíÊ ˜äÏ.
 |
-|������ �� ����� ��� �흘�� � ������ ����� �����.
+|˜ÇÑÈÑí ˜å ÓÝÇÑÔ ËÈÊ ãí˜äÏ æ ÑÏÇÎÊ ÇäÌÇã ãíÏåÏ.
 		
 		stereotype 	"Actor"
 		visible_modules 	(list dependency_list
@@ -215,7 +215,7 @@
 	    (object Class "PaymentSystem"
 		quid       	"5C7C4894008D"
 		documentation 	
-|�ѐ�� ������ ������ �� ������ �� ���.
+|ÏÑÇå ÑÏÇÎÊ ÂäáÇíä íÇ ÑÏÇÎÊ ÏÑ ãÍá.
 |
 		
 		stereotype 	"Actor"
@@ -235,7 +235,7 @@
 	    (object Class "DeliveryPerson"
 		quid       	"5C7C4A70039A"
 		documentation 	
-|����� ����� � ����� �������.
+|ãÓÆæá ÇÑÓÇá æ ÊÍæíá ÓÝÇÑÔÇÊ.
 |
 		
 		stereotype 	"Actor"
@@ -255,7 +255,7 @@
 	    (object Class "SystemAdmin"
 		quid       	"5C7C9677010A"
 		documentation 	
-|����� ������ ������� ��� ���� � ��������.
+|ãÓÆæá ãÏíÑíÊ ˜ÇÑÈÑÇä¡ ÑãÒ ÚÈæÑ æ ÏÓÊÑÓíåÇ.
 |
 		
 		stereotype 	"Actor"
@@ -283,7 +283,7 @@
 	    (object Class "Guest"
 		quid       	"5C7C9684037B"
 		documentation 	
-|������ �� ��ʝ��� ���� ��� ������� ������� �� �����.
+|˜ÇÑÈÑí ˜å ËÈÊäÇã ä˜ÑÏå ÇãÇ ãíÊæÇäÏ ãÍÕæáÇÊ ÑÇ ÈÈíäÏ.
 |
 		
 		stereotype 	"Actor"
@@ -561,9 +561,9 @@
 		origin_x   	0
 		origin_y   	0
 		items      	(list diagram_item_list))
-	    (object UseCaseDiagram "�������� ������ ������� � ������"
+	    (object UseCaseDiagram "ÒíÑÓíÓÊã ãÏíÑíÊ ãÍÕæáÇÊ æ ãæÌæÏí"
 		quid       	"5C7C3A71002F"
-		title      	"�������� ������ ������� � ������"
+		title      	"ÒíÑÓíÓÊã ãÏíÑíÊ ãÍÕæáÇÊ æ ãæÌæÏí"
 		zoom       	100
 		max_height 	28350
 		max_width  	21600
@@ -1456,10 +1456,10 @@
 				    (3293, 1124)
 				    (3255, 883))
 				line_style 	0)))))
-	    (object UseCaseDiagram "�������� ������ ������� � ������"
+	    (object UseCaseDiagram "ÒíÑÓíÓÊã ãÏíÑíÊ ÓÝÇÑÔÇÊ æ ÑÏÇÎÊ"
 		quid       	"5C7C3B15033C"
 		title      	
-|�������� ������ ������� � ������
+|ÒíÑÓíÓÊã ãÏíÑíÊ ÓÝÇÑÔÇÊ æ ÑÏÇÎÊ
 		
 		zoom       	100
 		max_height 	28350
@@ -2348,10 +2348,10 @@
 				    (3012, 876)
 				    (3017, 723))
 				line_style 	0)))))
-	    (object UseCaseDiagram " �������� ������ ������� � �������"
+	    (object UseCaseDiagram " ÒíÑÓíÓÊã ãÏíÑíÊ ˜ÇÑÈÑÇä æ ÑæÝÇíá"
 		quid       	"5C7C3B80007D"
 		title      	
-| �������� ������ ������� � �������
+| ÒíÑÓíÓÊã ãÏíÑíÊ ˜ÇÑÈÑÇä æ ÑæÝÇíá
 		
 		zoom       	100
 		max_height 	28350
